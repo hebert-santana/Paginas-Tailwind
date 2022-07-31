@@ -10,6 +10,7 @@
   
 </div>
 
+<https://alura-newsletter-orcin.vercel.app/>
 
 <hr>
 
